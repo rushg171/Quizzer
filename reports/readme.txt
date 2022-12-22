@@ -1,0 +1,1 @@
+The quiz reports are stored as json files in this directory.

@@ -1,0 +1,27 @@
+{
+  "name": "quizzer",
+  "version": "1.0.0",
+  "description": "Quiz result process and store",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rushg171/Quizzer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rushg171/Quizzer/issues"
+  },
+  "homepage": "https://github.com/rushg171/Quizzer#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "xml-js": "^1.6.11"
+  }
+}
